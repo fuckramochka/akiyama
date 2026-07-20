@@ -5,15 +5,15 @@ import { ArrowUpRight, Music2, Send } from 'lucide-react'
 const LINKS = [
   {
     label: 'TikTok',
-    desc: '@akiyama',
-    href: 'https://vm.tiktok.com/ZGd9v4dSR/',
+    desc: '@akiyama.mindset.upgr',
+    href: 'http://tiktok.com/@akiyama.mindset.upgr',
     icon: <Music2 className="size-5" aria-hidden="true" />,
     color: '#18181b'
   },
   {
     label: 'Telegram',
-    desc: '@zacjshe',
-    href: 'https://t.me/zacjshe',
+    desc: '@akiayama_mindset',
+    href: 'https://t.me/akiayama_mindset',
     icon: <Send className="size-5" aria-hidden="true" />,
     color: '#3f3f46'
   },
